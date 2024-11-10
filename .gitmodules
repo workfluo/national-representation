@@ -1,12 +1,12 @@
 [submodule "backend/general"]
 	path = backend/general
-	url = ./backend/general
+	url = https://github.com/workfluo/national-representation_backend_general.git
 [submodule "backend/fr"]
 	path = backend/fr
-	url = ./backend/fr
+	url = https://github.com/workfluo/national-representation_backend_fr.git
 [submodule "frontend/fr"]
 	path = frontend/fr
-	url = ./frontend/fr
+	url = https://github.com/workfluo/national-representation_frontend_fr.git
 [submodule "frontend/general"]
 	path = frontend/general
-	url = ./frontend/general
+	url = https://github.com/workfluo/national-representation_frontend_general.git
