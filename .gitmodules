@@ -1,0 +1,12 @@
+[submodule "backend/general"]
+	path = backend/general
+	url = ./backend/general
+[submodule "backend/fr"]
+	path = backend/fr
+	url = ./backend/fr
+[submodule "frontend/fr"]
+	path = frontend/fr
+	url = ./frontend/fr
+[submodule "frontend/general"]
+	path = frontend/general
+	url = ./frontend/general
